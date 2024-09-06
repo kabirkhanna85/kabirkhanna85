@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kabirkhanna85
 - 👀 I’m interested in anything to do with quantum information, statistical, and condensed matter physics. 
 - 🌱 I’m currently pursuing my PhD in theoretical physics at UMass Amherst. 
-- 👨🏻‍💻 I’m looking to collaborate on relevant lecture notes, solutions to book exercises, and quantum machine learning projects. 
 - 📫 How to reach me: you could drop an email at kabirkhhanna85@gmail.com
 
 <!---
